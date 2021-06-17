@@ -1,14 +1,17 @@
 ---
-description: Katt's Resources for SQL stuff
+description: Katt's Resources for code stuff
 ---
 
-# SQL Notes
+# The Code Wiki
 
-Hi Cash App folk!
+I, like many a person before me, learned to code, and took notes on the code I learned to use.  Within this file structure is the code I learned to use, plus or minus several years of learning that hasn't made it from physical notebooks into Markdown.
 
-Because NDAs mean I cannot share code I've previously written, I've made a guidebook of best practices and code snippets I've found useful over my career.  I've written this for a layperson, but with links to help reach the next stages of SQL knowledge.
 
-I hope this will be a useful demonstration of my knowledge; at the very least, it's been a great exercise for me to organize some of my thoughts.
+## Current Main Sections
 
-Cheers!
+The majority of my coding has been for data science, with occasional forays into using Ruby to assemble websites.  Thus, you'll get to see:
+
+* Python
+* SQL
+* TBD?
 
